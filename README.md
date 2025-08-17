@@ -24,8 +24,3 @@ A machine learning web application that predicts rainfall using Random Forest Cl
 2. Click "Predict Rainfall" to get prediction
 3. View confidence scores and weather recommendations
 
-## 👥 Authors
-Sakshi Shetty & Shifali Mada
-
-## 📄 License
-MIT License
