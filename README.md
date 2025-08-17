@@ -3,7 +3,7 @@
 A machine learning web application that predicts rainfall using Random Forest Classifier.
 
 ## 🚀 Live Demo
-[Try the app here](https://your-streamlit-link.streamlit.app/)
+[Try the app here](https://rainfall-prediction-app-using-ml.streamlit.app/)
 
 ## 📊 Features
 - Interactive weather parameter sliders
